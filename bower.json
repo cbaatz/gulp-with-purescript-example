@@ -1,0 +1,22 @@
+{
+  "name": "client",
+  "version": "0.2.3",
+  "homepage": "https://github.com/cbaatz/prospect",
+  "authors": [
+    "Carl Baatz <carl.baatz@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "purescript-console": "~0.1.0",
+    "purescript-eff": "~0.1.0",
+    "purescript-prelude": "~0.1.0",
+    "purescript-maybe": "~0.3.2"
+  }
+}
